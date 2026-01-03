@@ -1,5 +1,7 @@
 # Vestalize
 
+> Sistema SaaS desenvolvido em PHP (Laravel)
+
 Backend desenvolvido em PHP (Laravel) para gestão de pedidos
 e regras de negócio.
 
