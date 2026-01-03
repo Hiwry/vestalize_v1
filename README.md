@@ -1,4 +1,4 @@
-# Pedido Backend
+# Vestalize_v1
 
 Backend desenvolvido em PHP (Laravel) para gestão de pedidos
 e regras de negócio.
